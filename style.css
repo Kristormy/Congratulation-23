@@ -50,7 +50,7 @@
 
     #note {
         font-family: 'PT Mono', monospace;
-		margin: 0 auto;
+	margin: 0 auto;
         color: #fff;
         margin-bottom: 2%;
         width: 60%;
@@ -78,7 +78,7 @@
         border: 5px solid #f3ca3a;
          width: 60%;
         height: 70%;
-   
+   margin: 0 auto;
         -webkit-border-radius: .5em;
         -moz-border-radius: .5em;
         border-radius: .5em;
@@ -151,14 +151,14 @@ text-decoration: none;
  
 
 #Pic1{
-	 width: 100%; 
-	right:10%;
+width: 100%; 
+right:10%;
 
   }
 
 #Pic2{
-	 width: 110%;
-	
+ width: 110%;
+	right: -2%
   }  
 
  #star{
