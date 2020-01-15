@@ -74,7 +74,7 @@
 
      #message {
         background: #667f23;
-        margin: -1% 6%;
+        margin: -1% 4%;
         border: 5px solid #f3ca3a;
          width: 60%;
         height: 70%;
@@ -152,16 +152,15 @@ text-decoration: none;
 
 #Pic1{
 	 width: 100%;
-	margin-right:6%;	
+
   }
 
 #Pic2{
 	 width: 110%;
-	margin-right:1%;	
+	
   }  
 
  #star{
 	 width: 120%;
-        margin-top:-1%;
-	margin-left:-9%;	
+	
   }
