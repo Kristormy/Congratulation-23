@@ -148,15 +148,11 @@ text-decoration: none;
   color: white;
   transform: translateY(-7px);
 }
-  #star{
-	 width: 120%;
-        margin-top:-1%;
-	margin-left:-9%;	
-  }
+ 
 
 #Pic1{
 	 width: 100%;
-	margin-left:-4%;	
+	margin-left: 0%;	
   }
 
 #Pic2{
@@ -165,3 +161,8 @@ text-decoration: none;
 	margin-left:-6%;	
   }  
 
+ #star{
+	 width: 120%;
+        margin-top:-1%;
+	margin-left:-9%;	
+  }
