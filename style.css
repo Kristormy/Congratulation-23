@@ -79,11 +79,11 @@ body {
         border: 5px solid #f3ca3a;
         width: 60%;
         height: 70%;
-		margin: -1% -5%;
+	
         -webkit-border-radius: .5em;
         -moz-border-radius: .5em;
         border-radius: .5em;
-        position: absolute;
+        position: fixed;;
         opacity: 1;
         filter:alpha(opacity=100);
 		line-height: 1.5; 
