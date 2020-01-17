@@ -77,13 +77,12 @@
         background: #667f23;
         margin: -1% 4%;
         border: 5px solid #f3ca3a;
-        width: 60%;
-        height: 60%;
-		margin: -1% -5%;
+        width: 44%;
+        height: 260px;
+	margin: -1% -5%;
         -webkit-border-radius: .5em;
         -moz-border-radius: .5em;
         border-radius: .5em;
-        position: absolute;
         opacity: 1;
         filter:alpha(opacity=100);
 		line-height: 1.5; 
