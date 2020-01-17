@@ -4,6 +4,7 @@ body {
 		font-family: 'PT Mono', monospace;
 		overflow-x: hidden;
     }
+
     #stat {
         background: #ffffff url("img/fon4.jpg");
         margin: 0 auto;
@@ -17,6 +18,7 @@ body {
         border-radius: .5em;
         text-align: center;
     }
+
     #stat span{
         text-decoration: none;
         font-size: 100%;
@@ -29,11 +31,11 @@ body {
         border-radius: .2em;
         
     }
-	    #stat a {
-		margin-left:-3%;
+	#stat a {
+	margin-left:-3%;
         text-decoration: none;
         font-size: 100%;
-		font-family: 'PT Mono', monospace;
+	font-family: 'PT Mono', monospace;
         background: #ffffff;
         padding: 0.9% 11.4%;
         color: #0f3402;
@@ -78,7 +80,7 @@ body {
         margin: -1% -5%;
         border: 5px solid #f3ca3a;
         width: 60%;
-        height: 60%;
+        height: 260px;
 	position: absolute;
         -webkit-border-radius: .5em;
         -moz-border-radius: .5em;
@@ -86,9 +88,9 @@ body {
        
         opacity: 1;
         filter:alpha(opacity=100);
-		line-height: 1.5; 
+	line-height: 1.5; 
         text-align: center;
-		font-family: 'PT Mono', monospace;
+	font-family: 'PT Mono', monospace;
         font-size:4 em;
         color: #fff;
         display: none;
