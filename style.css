@@ -75,10 +75,10 @@
 
      #message {
         background: #667f23;
-        margin: -1% 4%;
         border: 5px solid #f3ca3a;
         width: 44%;
         height: 260px;
+	      padding: 4% 3.5%;
 	margin: -1% -5%;
 	     position:absolute;
         -webkit-border-radius: .5em;
