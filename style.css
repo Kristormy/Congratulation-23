@@ -65,7 +65,7 @@ body {
         margin: 0 auto;
         border: 5px solid #f3ca3a;
         width: 44%;
-        height: 260 px;
+        height: 260px;
         padding: 4% 3.5%;
         cursor: url("img/target.png"), pointer;
         -webkit-border-radius: .5em;
@@ -78,7 +78,7 @@ body {
         margin: -1% -5%;
         border: 5px solid #f3ca3a;
         width: 60%;
-        height: 262 px;
+        height: 262px;
 	position:absolute;
         -webkit-border-radius: .5em;
         -moz-border-radius: .5em;
