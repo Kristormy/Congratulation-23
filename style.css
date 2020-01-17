@@ -1,4 +1,4 @@
-  body {
+body {
         cursor: url('img/target.png');
         background: #ffffff url("img/fon3.jpg") repeat top right;
 		font-family: 'PT Mono', monospace;
@@ -128,8 +128,8 @@
 #generate {
 text-decoration: none;
   outline: none;
-  width: 1 em;
-  height: 2 em;
+  width: 40%;
+  height: 30%;
   border: 0;
   border-radius: 5px;
   font-family: 'PT Mono', monospace;
@@ -137,12 +137,12 @@ text-decoration: none;
 
   text-align: center;
   letter-spacing: 1px;
-
+  font-weight: 60%;
   color: #000;
+  background: white;
 
   transition: .3s;
 }
-
 #generate:hover {
   background: #f3ca3a;
   box-shadow: 0 15px 20px rgba(255,255,255,.4);
@@ -164,5 +164,5 @@ width: 100%;
 
  #star{
 	 width: 120%;
-	   margin: -1% -9%;
+	   margin: auto -9%;
   }
