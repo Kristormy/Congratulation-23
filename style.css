@@ -80,6 +80,7 @@
         width: 44%;
         height: 260px;
 	margin: -1% -5%;
+	     position:absolute;
         -webkit-border-radius: .5em;
         -moz-border-radius: .5em;
         border-radius: .5em;
@@ -137,7 +138,7 @@ text-decoration: none;
   letter-spacing: 1px;
   font-weight: 60%;
   color: #000;
-position:absolute;
+
 
   transition: .3s;
 }
