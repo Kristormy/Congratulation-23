@@ -22,9 +22,9 @@ body {
     #stat span{
         text-decoration: none;
         font-size: 100%;
-		font-family: 'PT Mono', monospace;
+	font-family: 'PT Mono', monospace;
         background: #ffffff;
-        padding: 1% 1.6%;
+        padding: 1em 1.6em;
         color: #0f3402;
         -webkit-border-radius: .2em;
         -moz-border-radius: .2em;
@@ -81,7 +81,7 @@ body {
 	margin: -18% -5%;
         border: 5px solid #f3ca3a;
         width: 60%;
-        height: 68%;
+        height: 70%;
         -webkit-border-radius: .5em;
         -moz-border-radius: .5em;
         border-radius: .5em;
