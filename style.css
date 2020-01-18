@@ -36,18 +36,18 @@ body {
         text-decoration: none;
         font-size: 100%;
 	font-family: 'PT Mono', monospace;
-        background: #ffffff;
+        background: #f3ca3a;
         padding: 0.9% 11.4%;
-        color: #0f3402;
+        color: #fff;
         -webkit-border-radius: .2em;
         -moz-border-radius: .2em;
         border-radius: .2em;
     }
    
    #stat a:hover {
-	background: #f3ca3a;
+	background: #fff;
 	box-shadow: 0 15px 20px rgba(255,255,255,.4);
-	color: white;
+	color: 0f3402;
 	}
 
 
