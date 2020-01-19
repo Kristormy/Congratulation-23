@@ -1,49 +1,50 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>	 
-	<title>Поздравление с 23 февраля! Сыграй в игру и проверь свою меткость!</title> 
+	<title>Поздравительная открытка</title> 
 	<meta charset="utf-8">
-	<meta name="description" content="Поздравление с 23 февраля! Сыграй в игру и проверь свою меткость!"/>
 	<link href="https://fonts.googleapis.com/css?family=PT+Mono&display=swap" rel="stylesheet">
 	<link rel="stylesheet" href="style.css">
     <script src="js/jquery-1.5.min.js"></script>
     <script src="js/jquery-ui-1.8.9.custom.min.js"></script>
 	<script src="js/mail.js"></script>
 	<script src="js/play.js"></script>
-   
 </head>
 
 <body>
 
-<img  alt="С Днем Защитника Отечества!" id="Pic1" src="img/Text.png">
+<img id="Pic1" alt="С Днем Защитника Отечества!" src="img/Text.png">
+
     <div id="stat">
+        <span id="hit">0 мимо</span>
+        &nbsp;
        <span id="miss">0 попал</span>
         &nbsp;
-       <span id="hit">0 мимо</span> 
-        &nbsp;
 		<br><br>
-        <a id="btnstart" href="javascript://" >Играть</a>
-	
+        <a id="start" href="javascript://" >Играть</a>
    </div>
- 
+
+
     <div id="note">
-        Нажмите &quot;Играть&quot;, чтобы проверить свою реакцию. <br> Игра длится 30 секунд,
-       в животных попадать нельзя.
+        Нажмите &quot;Играть&quot;, чтобы проверить свою реакцию. <br> Игра длится 20 секунд, в животных попадать нельзя.
     </div>
 
-    <div id="container">
 
+    <div id="container">
         <div id="char1" class="character enemy1"></div>
         <div id="char2" class="character enemy2"></div>
         <div id="char3" class="character enemy3"></div>
-        <div id="char4" class="character ally"></div>
+        <div id="char4" class="character animals"></div>
     </div>
 
-    <div id="message">	
-	<img  alt="Ура! Ура! Ура!" id="Pic2" src="img/Text3.png">
-	<p id="text"></p> 
-	<p><button id="generate">Ваше поздравление</button></p>
-	<img alt="Звезды" id="star" src="img/star1.png">	
+
+
+	<div id="message">
+	<img id="Pic2" alt="Ура! Ура! Ура!" src="img/Text3.png">
+		<p id="text"></p> 
+		<p><button id="generate">Ваше поздравление</button></p>
+			<img alt="Звезды" id="star" src="img/star1.png">
     </div>
+
 </body>
 </html>
