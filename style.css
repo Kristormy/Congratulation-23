@@ -125,7 +125,7 @@ body {
         background: url("img/c.png");
     }
 
-    .ally {
+    .animals {
 
         background: url("img/r.png");
     }
@@ -142,7 +142,7 @@ text-decoration: none;
 
   text-align: center;
   letter-spacing: 1px;
-  font-weight: 1em;
+  font-weight: 70%;
   color: #000;
   background: white;
 
