@@ -133,13 +133,13 @@ body {
 #generate {
 text-decoration: none;
   outline: none;
-padding: 0.9% 10%;
+padding: 0.9% 6%;
   border: 0;
   border-radius: 5px;
   font-family: 'PT Mono', monospace;
   text-align: center;
   letter-spacing: 1px;
-  font-weight: 100%;
+   font-size: 100%;
   color: #000;
   background: white;
   transition: .3s;
