@@ -39,7 +39,7 @@ body {
 	font-family: 'PT Mono', monospace;
         background: #f3ca3a;
         padding: 0.9% 11.4%;
-	box-shadow: 0 0 0 0.1em rgba(80, 80, 80, 0.7);
+	box-shadow: 0 0 0 0.1em rgba(255, 255, 255, 0.9);
         color: #000;
         -webkit-border-radius: .2em;
         -moz-border-radius: .2em;
